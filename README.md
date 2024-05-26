@@ -1,88 +1,65 @@
-### Hi there 👋, I'm Jayamal Sigera
+<img src="https://user-images.githubusercontent.com/61582763/195144968-ce4e68fc-39d4-4f1c-856b-2709b7068ba6.gif" width=100% alt="Banner Image">
 
-**BScEng(Hons) MME - UOR(SL) | Control Systems Engineer | Robotics Developer | Astronautics & Space Systems Enthusiast**
+<p align="center"> 
+  <a href="https://twitter.com/JayamalSigera">
+    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt="Twitter Icon">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jayamalsigera/">
+    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt="LinkedIn Icon">
+  </a>
+  
+  <a href="https://medium.com/@jayamalsigera">
+    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt="Medium Icon" width=64px>
+  </a>
+</p>
 
----
----
+<img src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align="right" alt="my_octocat" width=475px>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    
-  **GitHub Stats:**
+<br>
 
-  ![Jayamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayamalsigera&show_icons=true&theme=radical)
+### 🌱 Domains of Interest:
+- AI and Machine Learning
+- Robotics and Control Systems
+- Embedded Systems
 
-  </div>
-  <div style="flex: 1;">
+### 🍃 Academic Projects:
+- Spoof Detection Method for Automatic Speaker Verification System
+- Drone Control System Development
+- Autonomous Hospital Service Robot
 
-  ### Skills and Expertise
+### ✨ Coming Soon:
+- Personal Portfolio Website
+- Robotics and AI Blog Series
+- New Open-Source Projects
 
-  ![Programming Languages](https://img.shields.io/badge/Programming-Languages-blue) 
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+<br>
 
-  ![Technologies](https://img.shields.io/badge/Technologies-blue) 
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/gazebo-1389FD?style=for-the-badge&logo=gazebo&logoColor=white">
+  <img src="https://img.shields.io/badge/cad-0696D7?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/cfd-1E1E1E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/project_management-1E1E1E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/technical_documentation-1E1E1E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/teaching-1E1E1E?style=for-the-badge">
+</p>
+<br>
 
-  ![Tools](https://img.shields.io/badge/Tools-blue) 
-  ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=flat&logo=mathworks&logoColor=white) 
-  ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white) 
-  ![Gazebo](https://img.shields.io/badge/-Gazebo-1389FD?style=flat&logo=gazebo&logoColor=white) 
-  ![CAD](https://img.shields.io/badge/-CAD-0696D7?style=flat&logo=autodesk&logoColor=white) 
-  ![CFD](https://img.shields.io/badge/-CFD-1E1E1E?style=flat)
-
-  ![Soft Skills](https://img.shields.io/badge/Soft-Skills-blue) 
-  ![Project Management](https://img.shields.io/badge/-Project_Management-1E1E1E) 
-  ![Technical Documentation](https://img.shields.io/badge/-Technical_Documentation-1E1E1E) 
-  ![Teaching](https://img.shields.io/badge/-Teaching-1E1E1E)
-
-  </div>
-</div>
----
-
-🔭 **Currently working on:**
-- Research project focused on spoof detection methods for automatic speaker verification systems.
-- Freelance Instructor for Rocketry and Observational Astronomy at the Institute of Astronomy, Sri Lanka (IOAS).
-
-👯 **Looking to collaborate on:**
-- Robotics and automation projects.
-- AI research and development.
-- Educational workshops and STEM initiatives.
-
-🤔 **Looking for help with:**
-- Implementing advanced control systems.
-- Scaling AI research projects.
-- Debugging hardware and software issues in prototype systems.
-
-💬 **Ask me about:**
-- AI and machine learning applications.
-- Robotics and Control Theory.
-- MATLAB and Simulink for Control Engineering.
-
-📫 **How to reach me:**
-- LinkedIn: [Jayamal Sigera](https://www.linkedin.com/in/jayamalsigera/)
-- Email: veelochanas@gmail.com / jayamalsigera@outlook.com
----
-
-### Skills and Expertise
-
-![Programming Languages](https://img.shields.io/badge/Programming-Languages-blue) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-
-![Technologies](https://img.shields.io/badge/Technologies-blue) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-
-![Tools](https://img.shields.io/badge/Tools-blue) ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=flat&logo=mathworks&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/-Gazebo-1389FD?style=flat&logo=gazebo&logoColor=white) ![CAD](https://img.shields.io/badge/-CAD-0696D7?style=flat&logo=autodesk&logoColor=white) ![CFD](https://img.shields.io/badge/-CFD-1E1E1E?style=flat)
-
-![Soft Skills](https://img.shields.io/badge/Soft-Skills-blue) ![Project Management](https://img.shields.io/badge/-Project_Management-1E1E1E) ![Technical Documentation](https://img.shields.io/badge/-Technical_Documentation-1E1E1E) ![Teaching](https://img.shields.io/badge/-Teaching-1E1E1E)
-
-Feel free to explore my repositories and contribute to my projects. Let's innovate and build something amazing together!
-
----
-
-**GitHub Stats:**
-
-![Jayamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayamalsigera&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/jayamalsigera">
+    <img alt="Jayamal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jayamalsigera&show_icons=true&hide=stars&theme=radical">
+  </a>
+  <a href="https://github.com/jayamalsigera">
+    <img alt="Jayamal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalsigera&layout=compact&theme=radical&card_width=250">
+  </a>
+</p>
