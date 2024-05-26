@@ -1,5 +1,4 @@
-<hr><p align="center"> <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/banner.jpg" width="80%" alt="Banner Image" width="400px" style="max-width: 600px;"></p>
-
+<hr>
 <p align="center"> 
   <a href="https://twitter.com/JayamalSigera"><img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/twitter.png" alt="Twitter Icon" width=100px></a>
   <a href="https://www.linkedin.com/in/jayamalsigera/"><img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/linkedin.png" alt="LinkedIn Icon" width=100px></a>
