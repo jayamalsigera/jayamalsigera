@@ -2,15 +2,15 @@
 
 <p align="center"> 
   <a href="https://twitter.com/JayamalSigera">
-    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/twitter.png" alt="Twitter Icon">
+    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/twitter.png" alt="Twitter Icon" width=80px>
   </a>
   
   <a href="https://www.linkedin.com/in/jayamalsigera/">
-    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/linkedin.png" alt="LinkedIn Icon">
+    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/linkedin.png" alt="LinkedIn Icon" width=80px>
   </a>
   
   <a href="https://www.youtube.com">
-    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/youtube.png" alt="Medium Icon" width=64px>
+    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/youtube.png" alt="Medium Icon" width=80px>
   </a>
 </p>
 
