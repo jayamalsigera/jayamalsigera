@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/61582763/195144968-ce4e68fc-39d4-4f1c-856b-2709b7068ba6.gif" width=100% alt="Banner Image">
+<img src="" width=100% alt="Banner Image">
 
 <p align="center"> 
   <a href="https://twitter.com/JayamalSigera">
@@ -14,24 +14,20 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align="right" alt="my_octocat" width=475px>
+<img src="" align="right" alt="my_octocat" width=475px>
 
 <br>
 
 ### 🌱 Domains of Interest:
-- AI and Machine Learning
 - Robotics and Control Systems
+- AI and Machine Learning
+- Industrial Automation
 - Embedded Systems
 
 ### 🍃 Academic Projects:
 - Spoof Detection Method for Automatic Speaker Verification System
 - Drone Control System Development
-- Autonomous Hospital Service Robot
-
-### ✨ Coming Soon:
-- Personal Portfolio Website
-- Robotics and AI Blog Series
-- New Open-Source Projects
+- Autonomous Hospital Service Mobile Robot
 
 <br>
 
