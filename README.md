@@ -1,4 +1,4 @@
-<img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/banner.jpg" width=100% alt="Banner Image" width=720px>
+<img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/banner.jpg" width=100% alt="Banner Image" width=600px>
 
 <p align="center"> 
   <a href="https://twitter.com/JayamalSigera">
