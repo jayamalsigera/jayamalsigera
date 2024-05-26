@@ -1,4 +1,4 @@
-<img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/banner.jpg" width="80%" alt="Banner Image" width="400px" style="max-width: 600px;">
+<p align="center"> <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/banner.jpg" width="80%" alt="Banner Image" width="400px" style="max-width: 600px;"></p>
 <br>
 
 <p align="center"> 
