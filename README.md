@@ -1,28 +1,23 @@
-<img src="" width=100% alt="Banner Image">
+<img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/banner.jpg" width=100% alt="Banner Image">
 
 <p align="center"> 
   <a href="https://twitter.com/JayamalSigera">
-    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt="Twitter Icon">
+    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/twitter.png" alt="Twitter Icon">
   </a>
   
   <a href="https://www.linkedin.com/in/jayamalsigera/">
-    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt="LinkedIn Icon">
+    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/linkedin.png" alt="LinkedIn Icon">
   </a>
   
-  <a href="https://medium.com/@jayamalsigera">
-    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt="Medium Icon" width=64px>
+  <a href="https://www.youtube.com">
+    <img src="https://github.com/jayamalsigera/jayamalsigera/blob/main/youtube.png" alt="Medium Icon" width=64px>
   </a>
 </p>
-
-<img src="" align="right" alt="my_octocat" width=475px>
 
 <br>
 
 ### 🌱 Domains of Interest:
-- Robotics and Control Systems
-- AI and Machine Learning
-- Industrial Automation
-- Embedded Systems
+Robotics and Control Systems | Autonomous Mobile Robots | AI and Machine Learning | Industrial Automation |Embedded Systems
 
 ### 🍃 Academic Projects:
 - Spoof Detection Method for Automatic Speaker Verification System
