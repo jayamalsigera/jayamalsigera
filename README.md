@@ -1,4 +1,8 @@
 ## Hey 👋, I'm Jayamal Sigera
+### 🎯 Control Systems Engineer, Roboticist  
+**🎓 MSc in Control Systems Engineering (Reading), University of Padova, Italy**  
+**🎓 BScEng (Hons) in Mechanical and Manufacturing Engineering, University of Ruhuna, Sri Lanka**  
+**🛠 Associate Engineer – Engineering Council, Sri Lanka (ECSL)**
 
 [![GitHub followers](https://img.shields.io/github/followers/jayamalsigera?style=social)](https://github.com/jayamalsigera?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayamal%20Sigera-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/jayamalsigera/)
@@ -8,7 +12,7 @@
 <hr>
 
 ### 🌱 Domains of Interest:
-Robotics | Control Systems | AI and Machine Learning | Embedded Systems
+**Control Systems | Space Robotics | Autonomous Robots | AI and Machine Learning | Embedded Systems | Mechatronic Systems**
 
 <br>
 <p align="center">
