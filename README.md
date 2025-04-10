@@ -12,6 +12,6 @@ Robotics | Control Systems | AI and Machine Learning | Embedded Systems
 <br>
 
 <p align="center">
-  <a href="https://github.com/jayamalsigera"><img alt="Jayamal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jayamalsigera&show_icons=true&hide=stars&theme=radical&card_height=150"></a>
-  <a href="https://github.com/jayamalsigera"><img alt="Jayamal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalsigera&layout=compact&theme=radical&card_height=150"></a>
+  <a href="https://github.com/jayamalsigera"><img alt="Jayamal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jayamalsigera&count_private=true&include_all_commits=true&show_icons=true&hide=stars&theme=radical&card_height=150"></a>
+  <a href="https://github.com/jayamalsigera"><img alt="Jayamal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalsigera&count_private=true&include_all_commits=true&layout=compact&theme=radical&card_height=150"></a>
 </p>
