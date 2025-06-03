@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.luisllamas.es/img/freertos-icon.svg" alt="STM32CubeMX" width="100" height="40"/>
+<!--   <img src="https://www.luisllamas.es/img/freertos-icon.svg" alt="STM32CubeMX" width="100" height="40"/> -->
   <img src="https://www.cphi-online.com/46/product/124/64/34/p0img_XL.jpg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg" alt="Gazebo" width="170" height="40"/>
   <img src="https://c1.klipartz.com/pngpicture/30/353/sticker-png-web-design-webots-ladybird-beetle-insect-leaf-beetle-ladybug-thumbnail.png" alt="Webots" width="40" height="40"/>
