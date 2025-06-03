@@ -40,6 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jayamalsigera&show_icons=true&theme=radical" alt="Jayamal's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalsigera&layout=compact&theme=radical" alt="Jayamal's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalsigera&theme=radical" alt="Jayamal's Top Languages" />
 </p>
 
