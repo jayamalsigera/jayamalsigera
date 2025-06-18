@@ -31,8 +31,8 @@
 
 ---
 ### 🌱 Domains of Interest:
+
 **Control Systems | Space Robotics | Autonomous Robots | AI and Machine Learning | Embedded Systems | Mechatronic Systems**
----
 
 ### 📊 GitHub Summary
 
