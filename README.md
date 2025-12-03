@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
-  <!-- <img src="https://www.luisllamas.es/img/freertos-icon.svg" alt="STM32CubeMX" width="100" height="40"/> -->
+  <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" alt="STM32CubeMX" width="40" height="40"/>
   <img src="https://www.cphi-online.com/46/product/124/64/34/p0img_XL.jpg" alt="B&RDesignStudio" width="40" height="40"/>
   <img src="https://nonanonno.gallerycdn.vsassets.io/extensions/nonanonno/vscode-ros2/0.1.5/1647776989247/Microsoft.VisualStudio.Services.Icons.Default" alt="ROS" width="40" height="40"/>
   <img src="https://gazebosim.org/assets/images/gazebo_icon_white.svg" alt="Gazebo" width="40" height="40"/>
