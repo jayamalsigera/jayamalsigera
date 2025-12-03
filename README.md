@@ -26,13 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
-<!--   <img src="https://www.luisllamas.es/img/freertos-icon.svg" alt="STM32CubeMX" width="100" height="40"/> -->
+  <!-- <img src="https://www.luisllamas.es/img/freertos-icon.svg" alt="STM32CubeMX" width="100" height="40"/> -->
   <img src="https://www.cphi-online.com/46/product/124/64/34/p0img_XL.jpg" alt="B&RDesignStudio" width="40" height="40"/>
-  <img src="https://www.ros.org/imgs/logo-white.png" alt="ROS" width="140" height="35"/>
+  <img src="https://nonanonno.gallerycdn.vsassets.io/extensions/nonanonno/vscode-ros2/0.1.5/1647776989247/Microsoft.VisualStudio.Services.Icons.Default" alt="ROS" width="40" height="40"/>
   <img src="https://gazebosim.org/assets/images/gazebo_icon_white.svg" alt="Gazebo" width="40" height="40"/>
   <img src="https://c1.klipartz.com/pngpicture/30/353/sticker-png-web-design-webots-ladybird-beetle-insect-leaf-beetle-ladybug-thumbnail.png" alt="Webots" width="40" height="40"/>
 </p>
@@ -42,13 +41,11 @@
 
 **Control Systems | Space Robotics | Autonomous Robots | AI and Machine Learning | Embedded Systems | Mechatronic Systems**
 
-### 📊 GitHub Summary
-
-<br>
+<!-- <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayamalsigera&show_icons=true&theme=radical" alt="Jayamal's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalsigera&theme=radical" alt="Jayamal's Top Languages" />
-</p>
+</p> -->
 
