@@ -28,7 +28,7 @@
 ---
 ### 🌱 Domains of Interest:
 
-**Control Systems | Space Robotics | Autonomous Robots | AI and Machine Learning | Embedded Systems | Mechatronic Systems**
+**Control Systems | Space Robotics | Autonomous Robots | AI and Machine Learning | Embedded & Mechatronic Systems**
 
 <!-- <br>
 <p align="center">
