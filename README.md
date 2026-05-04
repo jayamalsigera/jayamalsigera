@@ -20,20 +20,9 @@
 ---
 
 ### 🧰 Software Tools & Languages
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" alt="STM32CubeMX" width="40" height="40"/>
-  <img src="https://www.cphi-online.com/46/product/124/64/34/p0img_XL.jpg" alt="B&RDesignStudio" width="40" height="40"/>
-  <img src="https://nonanonno.gallerycdn.vsassets.io/extensions/nonanonno/vscode-ros2/0.1.5/1647776989247/Microsoft.VisualStudio.Services.Icons.Default" alt="ROS" width="40" height="40"/>
-  <img src="https://gazebosim.org/assets/images/gazebo_icon_white.svg" alt="Gazebo" width="40" height="40"/>
-  <img src="https://c1.klipartz.com/pngpicture/30/353/sticker-png-web-design-webots-ladybird-beetle-insect-leaf-beetle-ladybug-thumbnail.png" alt="Webots" width="40" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,python,cpp,c,tensorflow,opencv,postgres,ros,arduino,platformio,linux,ubuntu,vscode&perline=20&theme=dark" />
 </p>
 
 ---
